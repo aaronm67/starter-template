@@ -1,0 +1,9 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+.container {
+  max-width: 80vw;
+  margin: 0 auto;
+}
